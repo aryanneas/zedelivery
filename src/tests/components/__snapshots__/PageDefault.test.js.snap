@@ -1,0 +1,276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageDefault component should render PageDefault component correctly 1`] = `
+<DocumentFragment>
+  .c0 {
+  background-color: rgb(51,51,51);
+  text-align: center;
+  padding: 10px 0;
+}
+
+.c1 {
+  width: 10%;
+  height: 10%;
+}
+
+@media (min-width:600px) {
+
+}
+
+@media (max-width:600px) {
+
+}
+
+@media (max-width:600px) {
+
+}
+
+@media (max-width:600px) {
+  .c1 {
+    width: 45%;
+  }
+}
+
+<div
+    class="c0"
+  >
+    <img
+      alt="logo Zé Delivery"
+      class="c1"
+      src="https://courier-images-web.imgix.net/static/img/white-logo.png?auto=compress,format&fit=max&w=undefined&h=undefined&dpr=2&fm=png"
+      title="logo Zé Delivery"
+    />
+  </div>
+  @media (min-width:600px) {
+
+}
+
+@media (max-width:600px) {
+
+}
+
+@media (max-width:600px) {
+
+}
+
+@media (max-width:600px) {
+
+}
+
+<main />
+  .c0 {
+  position: fixed;
+  bottom: 0;
+  background-color: #333;
+  width: 100%;
+  color: #fff;
+  height: auto;
+  display: grid;
+}
+
+.c1 {
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+  padding: 10px 0;
+}
+
+.c2 {
+  width: 50%;
+  height: auto;
+}
+
+.c4 {
+  text-align: center;
+}
+
+.c3 {
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 40%;
+  -webkit-box-pack: space-around;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: space-around;
+  justify-content: space-around;
+}
+
+@media (min-width:600px) {
+  .c1 {
+    grid-template-columns: repeat(3,1fr);
+  }
+}
+
+@media (max-width:600px) {
+  .c1 {
+    text-align: center;
+  }
+}
+
+@media (max-width:600px) {
+  .c3 {
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin: auto;
+  }
+}
+
+@media (max-width:600px) {
+
+}
+
+<div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div>
+        <img
+          class="c2 footer-logo"
+          src="https://courier-images-web.imgix.net/static/img/logo-white-text.png?auto=compress,format&fit=max&w=176&h=56&dpr=2&fm=png"
+        />
+      </div>
+      <div>
+        <p>
+          Sobre o Zé Delivery
+        </p>
+        <ul>
+          <li>
+            <a
+              href="https://ze.delivery/"
+              target="_blank"
+            >
+              Peça já!
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://zedelivery.freshdesk.com/support/home"
+              target="_blank"
+            >
+              Ajuda do Zé!
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://ze.delivery/cidades-atendidas"
+              target="_blank"
+            >
+              Cidades Atendidas
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div>
+        <p>
+          Sobre a Desenvolvedora
+        </p>
+        <ul
+          class="c3"
+        >
+          <li>
+            <a
+              href="https://github.com/aryanneas"
+              target="_blank"
+              title="Github"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.linkedin.com/in/aryanne-silva/"
+              target="_blank"
+              title="LinkedIn"
+            >
+              <svg
+                fill="none"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"
+                />
+                <rect
+                  height="12"
+                  width="4"
+                  x="2"
+                  y="9"
+                />
+                <circle
+                  cx="4"
+                  cy="4"
+                  r="2"
+                />
+              </svg>
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://aryannesilvadev.netlify.app/"
+              target="_blank"
+              title="Site pessoal"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clip-rule="evenodd"
+                  d="M1 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H1zm5-6a3 3 0 100-6 3 3 0 000 6zm7 1.5a.5.5 0 01.5-.5h2a.5.5 0 010 1h-2a.5.5 0 01-.5-.5zm-2-3a.5.5 0 01.5-.5h4a.5.5 0 010 1h-4a.5.5 0 01-.5-.5zm0-3a.5.5 0 01.5-.5h4a.5.5 0 010 1h-4a.5.5 0 01-.5-.5zm2 9a.5.5 0 01.5-.5h2a.5.5 0 010 1h-2a.5.5 0 01-.5-.5z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <p
+      class="c4"
+    >
+      © Desenvolvido por 
+      <b>
+        Aryanne Silva
+      </b>
+       com muito amor e dedicação.
+    </p>
+  </div>
+</DocumentFragment>
+`;

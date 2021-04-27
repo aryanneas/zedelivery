@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component should render Header component correctly 1`] = `
+<DocumentFragment>
+  .c0 {
+  background-color: rgb(51,51,51);
+  text-align: center;
+  padding: 10px 0;
+}
+
+.c1 {
+  width: 10%;
+  height: 10%;
+}
+
+@media (max-width:600px) {
+  .c1 {
+    width: 45%;
+  }
+}
+
+<div
+    class="c0"
+  >
+    <img
+      alt="logo Zé Delivery"
+      class="c1"
+      src="https://courier-images-web.imgix.net/static/img/white-logo.png?auto=compress,format&fit=max&w=undefined&h=undefined&dpr=2&fm=png"
+      title="logo Zé Delivery"
+    />
+  </div>
+</DocumentFragment>
+`;
